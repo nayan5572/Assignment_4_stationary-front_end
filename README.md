@@ -1,12 +1,11 @@
-## 📚 NS Books Shop
+## 📚 NS Stationary Shop
 
-Welcome to NS Book Shop, your one-stop destination for high-quality books, arts and crafts supplies, stationery, and classroom essentials. This project is a web-based platform that provides an easy shopping experience for students, teachers, and art lovers.
-
+Welcome to NS Book Shop, your one-stop destination for high-quality Stationary, arts and crafts supplies, stationery, and classroom essentials. This project is a web-based platform that provides an easy shopping experience for students, teachers, and art lovers.
 
 ### 🌐 Live Demo
-🔗 Live Link: Visit NS Book Shop ([#Ns Books](https://stationery-shop-dusky.vercel.app/))
-🔗 Server Link: Visit NS Book Shop ([#Server](https://stationary-shop-server-chi.vercel.app))
 
+🔗 Live Link: Visit NS Book Shop ([#Ns Stationary](https://stationery-shop-dusky.vercel.app/))
+🔗 Server Link: Visit NS Book Shop ([#Server](https://stationary-shop-server-chi.vercel.app))
 
 ### 🚀 Features
 
@@ -14,7 +13,7 @@ Welcome to NS Book Shop, your one-stop destination for high-quality books, arts 
 
 🔍 Search Functionality: Quickly find the exact item you need.
 
-🏷️ Category-Based Sorting: Browse through Books, Arts & Crafts, Stationery, and Classroom Supplies.
+🏷️ Category-Based Sorting: Browse through Stationary, Arts & Crafts, Stationery, and Classroom Supplies.
 
 🔒 User Authentication: Secure login and sign-up system.
 
@@ -24,25 +23,23 @@ Welcome to NS Book Shop, your one-stop destination for high-quality books, arts 
 
 📞 Contact & Support: Reach out to us via the contact section.
 
-
 ### 📂 Categories
 
-📖 Books
+📖 Stationary
 
-A vast collection of books, including educational, fiction, non-fiction, and more.
+A vast collection of Stationary, including educational, fiction, non-fiction, and more.
 
 🎨 Arts and Crafts
 
-Premium art supplies such as paints, brushes, sketchbooks, and DIY kits.
+Premium art supplies such as paints, brushes, and DIY kits.
 
 🖊️ Stationery
 
-High-quality pens, notebooks, markers, and other writing essentials.
+High-quality pens, markers, and other writing essentials.
 
 🏫 Classroom Supplies
 
 All necessary materials for teachers and students, including whiteboards, charts, and organizers.
-
 
 ### 🛠️ Installation & Setup
 
@@ -59,8 +56,7 @@ Steps to Run Locally
 Clone the repository
 
 ```bash
-git clone https://github.com/Moniruzzaman2525/Stationery-Shop.git for Frontend
-cd Stationery-Shop
+git clone https://github.com/nayan5572/Assignment_4_stationary-front_end.git
 
 Install dependencies
 
@@ -78,8 +74,7 @@ http://localhost:5173
 ```
 
 ```bash
-git clone https://github.com/Moniruzzaman2525/stationery_shop_server.git for Backend
-cd stationery_shop_server
+git clone https://github.com/nayan5572/Stationary-server-assignment-4.git
 
 Install dependencies
 
@@ -89,7 +84,6 @@ Start the development server
 
 npm run start:dev
 ```
-
 
 ### 🛒 Technologies Used
 
@@ -102,7 +96,6 @@ Database: MongoDB (if applicable)
 Authentication: JWT (if applicable)
 
 Payment Integration: Stripe (if applicable)
-
 
 ### 🤝 Contributing
 
@@ -118,14 +111,10 @@ Push to GitHub (git push origin feature-name)
 
 Open a Pull Request
 
-
 ### 📞 Contact
 
 For inquiries or support, reach out to:
 
-📧 Email: web.moniruzzaman1@gmail.com
+📧 Email: halder25572@gmail.com
 
-📍 Address: 2100 Sherpur, Bangladesh
-
-Made with ❤️ by Md Moniruzzaman
-
+Create with ❤️ Nayan Halder
