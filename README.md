@@ -2,6 +2,10 @@
 
 Welcome to Stationary Shop, your one-stop destination for high-quality Stationary, arts and crafts supplies, stationery, and classroom essentials. This project is a web-based platform that provides an easy shopping experience for students, teachers, and art lovers.
 
+## 🔒 Admin Email: ([#Email](nayan@gmail.com))
+
+## 🔒 Admin Password: ([#Email](12345678))
+
 ### 🌐 Live Demo
 
 🔗 Live Link: Visit Stationary Shop ([#Stationary](https://stationery-shop-dusky.vercel.app/))
