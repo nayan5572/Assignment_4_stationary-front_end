@@ -76,28 +76,28 @@ const Footer = () => {
         </p>
         <div className="flex justify-center space-x-4 mt-4">
           <a
-            href="https://www.facebook.com/moniruzzaman255/"
+            href="https://www.facebook.com/nayan.halder.756"
             className="text-gray-400 hover:text-blue-400 transition"
             aria-label="Facebook"
           >
             <i className="fab fa-facebook-f"></i>
           </a>
           <a
-            href="https://x.com/Monir8699"
+            href=""
             className="text-gray-400 hover:text-blue-400 transition"
             aria-label="Twitter"
           >
             <i className="fab fa-twitter"></i>
           </a>
           <a
-            href="https://www.instagram.com/monir_2525/"
+            href=""
             className="text-gray-400 hover:text-blue-400 transition"
             aria-label="Instagram"
           >
             <i className="fab fa-instagram"></i>
           </a>
           <a
-            href="https://www.linkedin.com/in/moniruzzaman25/"
+            href=""
             className="text-gray-400 hover:text-blue-400 transition"
             aria-label="LinkedIn"
           >

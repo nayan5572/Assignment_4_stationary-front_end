@@ -11,7 +11,7 @@ import { logOut, setUser } from "../feathers/auth/authSlice";
 import { toast } from "sonner";
 
 const baseQuery = fetchBaseQuery({
-  // baseUrl: 'https://stationary-shop-server-chi.vercel.app/api',
+  // baseUrl: "https://stationery-shop-server-main.vercel.app/api",
   baseUrl: "http://localhost:5000/api",
   credentials: "include",
   prepareHeaders: (headers, { getState }) => {

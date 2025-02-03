@@ -9,8 +9,8 @@ Password: 12345678
 
 ### 🌐 Live Demo
 
-🔗 Live Link: Visit Stationary Shop ([#Stationary]())
-🔗 Server Link: Visit Stationary Shop ([#Server]())
+🔗 Live Link: Visit Stationary Shop ([#Stationary](https://stationery-shop-main.vercel.app/))
+🔗 Server Link: Visit Stationary Shop ([#Server](https://stationery-shop-server-main.vercel.app/))
 
 ### 🚀 Features
 
