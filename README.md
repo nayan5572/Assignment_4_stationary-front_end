@@ -1,11 +1,11 @@
-## 📚 NS Stationary Shop
+## 📚 Stationary Shop
 
-Welcome to NS Book Shop, your one-stop destination for high-quality Stationary, arts and crafts supplies, stationery, and classroom essentials. This project is a web-based platform that provides an easy shopping experience for students, teachers, and art lovers.
+Welcome to Stationary Shop, your one-stop destination for high-quality Stationary, arts and crafts supplies, stationery, and classroom essentials. This project is a web-based platform that provides an easy shopping experience for students, teachers, and art lovers.
 
 ### 🌐 Live Demo
 
-🔗 Live Link: Visit NS Book Shop ([#Ns Stationary](https://stationery-shop-dusky.vercel.app/))
-🔗 Server Link: Visit NS Book Shop ([#Server](https://stationary-shop-server-chi.vercel.app))
+🔗 Live Link: Visit Stationary Shop ([#Stationary](https://stationery-shop-dusky.vercel.app/))
+🔗 Server Link: Visit Stationary Shop ([#Server](https://stationary-shop-server-chi.vercel.app))
 
 ### 🚀 Features
 
